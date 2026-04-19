@@ -29,7 +29,7 @@ GitHub → Webhook → Jenkins → SSH → EC2 → Docker → Nginx App
 - Docker-based application deployment
 - Remote deployment via SSH
 
-## Access Application
+## Screenshot of running application
 
 <img width="1236" height="215" alt="image" src="https://github.com/user-attachments/assets/cb58f4fb-22d3-4c3a-9eaa-1a24e75d451a" />
 
