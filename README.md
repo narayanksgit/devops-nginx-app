@@ -30,7 +30,9 @@ GitHub → Webhook → Jenkins → SSH → EC2 → Docker → Nginx App
 - Remote deployment via SSH
 
 ## Access Application
-http://43.204.184.179:8080
+
+<img width="1236" height="215" alt="image" src="https://github.com/user-attachments/assets/cb58f4fb-22d3-4c3a-9eaa-1a24e75d451a" />
+
 
 ## Project Structure
 - index.html → Web page
