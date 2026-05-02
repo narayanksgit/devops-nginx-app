@@ -33,6 +33,10 @@ GitHub → Webhook → Jenkins → SSH → EC2 → Docker → Nginx App
 
 <img width="1219" height="559" alt="image" src="https://github.com/user-attachments/assets/16041ca4-7f41-4366-91f1-5457ba0e18fd" />
 
+## Jenkins pipeline
+
+<img width="1320" height="589" alt="image" src="https://github.com/user-attachments/assets/a47e1eba-c469-4200-82a1-1d156d589818" />
+
 
 ## Screenshot of running application
 
